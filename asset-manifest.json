@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bag_react/static/css/main.97ee503b.css",
+    "main.js": "/bag_react/static/js/main.8391f090.js",
+    "index.html": "/bag_react/index.html",
+    "main.97ee503b.css.map": "/bag_react/static/css/main.97ee503b.css.map",
+    "main.8391f090.js.map": "/bag_react/static/js/main.8391f090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ee503b.css",
+    "static/js/main.8391f090.js"
+  ]
+}
